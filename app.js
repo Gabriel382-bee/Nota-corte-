@@ -1,0 +1,1 @@
+import { Nota corte}. corte 

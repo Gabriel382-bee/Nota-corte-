@@ -1,0 +1,8 @@
+... o crea un nuevo repositorio en la línea de comandos
+echo "# nota-corte-1" >> README.md 
+git init 
+git agregar README.md 
+git commit -m "first commit" 
+git branch -M master 
+git remote agregar origen https://github.com/Gabriel382-bee/ nota-corte-1.git
+ git push -u maestro de origen
